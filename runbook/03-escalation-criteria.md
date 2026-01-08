@@ -13,6 +13,7 @@ Escalate immediately if any of the following are true:
 - Multi-site impact
 - Security indicators present
 - Issue occurs outside approved change window
+- Unable to isolate fault after completion of structured L1-L7 triage
 
 ---
 
